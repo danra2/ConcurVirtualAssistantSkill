@@ -1,0 +1,11 @@
+GeneralIntent what is this
+HelpIntent help
+DirectoryIntent what is the phone number for the {directory}
+DirectoryIntent what is the contact number for {directory}
+DirectoryIntent contact for {directory}
+DirectoryIntent {directory}
+PhoneIntent What is {first} {last} contact
+PhoneIntent Tell me {first} {last} number
+PhoneIntent Can I have the number for {first} {last}
+PhoneIntent What is {first} {last} phone number
+PhoneIntent What the phone number for {first} {last}

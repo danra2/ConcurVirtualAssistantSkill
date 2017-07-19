@@ -1,0 +1,38 @@
+{
+  "intents": [
+    {
+      "intent": "GeneralIntent"
+    },
+    {
+      "intent": "HelpIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "directory",
+          "type": "DIRECTORY"
+        }
+      ],
+      "intent": "DirectoryIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "first",
+          "type": "FIRST"
+        },
+        {
+          "name": "last",
+          "type": "LAST"
+        }
+      ],
+      "intent": "PhoneIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}
